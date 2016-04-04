@@ -1,0 +1,8 @@
+# osm2roads__home_delta_AzoresWest_osm
+# do not edit below this line
+# Last Written Sun Apr  3 19:08:13 2016
+#
+OBJECT_STATIC _home_delta_AzoresWest_osmroads174144.xml -28.02653 38.60369 29.48 0
+OBJECT_STATIC _home_delta_AzoresWest_osmroads174145.xml -28.02653 38.62170 512.34 0
+OBJECT_STATIC _home_delta_AzoresWest_osmroads175144.xml -28.00376 38.60369 167.06 0
+# END osm2roads__home_delta_AzoresWest_osm

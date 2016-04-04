@@ -1,0 +1,5 @@
+OBJECT_BASE 2531305.btg
+OBJECT LPPD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -25.711088 37.746952 72.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -25.684384 37.737203 49.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -25.697071 37.743399 68.9 0.00

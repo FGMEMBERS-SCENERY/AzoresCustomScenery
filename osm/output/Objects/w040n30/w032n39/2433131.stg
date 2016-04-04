@@ -1,0 +1,16 @@
+# osm2city__home_delta_AzoresWest_osm
+# do not edit below this line
+# Last Written Sun Apr  3 18:35:31 2016
+#
+OBJECT_STATIC _home_delta_AzoresWest_osmcity2940.xml -31.13341 39.67327 -0.61 0
+OBJECT_STATIC lightmap-switch.xml -31.13341 39.67327 -0.61 0
+OBJECT_STATIC _home_delta_AzoresWest_osmcity3040.xml -31.11015 39.67327 22.76 0
+# END osm2city__home_delta_AzoresWest_osm
+# osm2roads__home_delta_AzoresWest_osm
+# do not edit below this line
+# Last Written Sun Apr  3 19:08:13 2016
+#
+OBJECT_STATIC _home_delta_AzoresWest_osmroads38203.xml -31.12333 39.66678 -0.61 0
+OBJECT_STATIC _home_delta_AzoresWest_osmroads39203.xml -31.10056 39.66678 -0.72 0
+OBJECT_STATIC _home_delta_AzoresWest_osmroads39204.xml -31.10056 39.68480 262.86 0
+# END osm2roads__home_delta_AzoresWest_osm
