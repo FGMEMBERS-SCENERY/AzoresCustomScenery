@@ -1,5 +1,5 @@
 OBJECT_BASE 2482243.btg
 OBJECT LPGR.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml -28.037589 39.091486 25.4 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -28.023045 39.093910 23.8 0.00
-OBJECT_SHARED Models/Airport/beacon.xml -28.030113 39.093087 24.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -28.037589 39.091486 30.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -28.023045 39.093910 41.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -28.030113 39.093087 36.5 0.00
